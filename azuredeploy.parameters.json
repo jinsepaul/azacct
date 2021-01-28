@@ -6,10 +6,10 @@
       "value": "GEN-USER"
     },
     "adminPassword": {
-      "value": "A123456789b123"
+      "value": "urpwd"
     },
     "dnsLabelPrefix": {
-      "value": "jpdmjp1009"
+      "value": "vmname"
     }
   }
 }
